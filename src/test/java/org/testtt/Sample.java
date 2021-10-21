@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("test3");
 		System.out.println("test4");
 		
-	}
-
-}
+	System.out.println("Test1");
+	System.out.println("Test2");
+  }
+ }
